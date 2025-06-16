@@ -217,4 +217,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update: Link is now responsive and operational
+
+
+Update: link is up and running
